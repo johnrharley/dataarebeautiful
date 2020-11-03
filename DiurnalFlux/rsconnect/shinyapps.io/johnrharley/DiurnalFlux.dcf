@@ -1,0 +1,12 @@
+name: DiurnalFlux
+title: DiurnalFlux
+username:
+account: johnrharley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3149730
+bundleId: 3813543
+url: https://johnrharley.shinyapps.io/DiurnalFlux/
+when: 1604371732.8984
+asMultiple: FALSE
+asStatic: FALSE
